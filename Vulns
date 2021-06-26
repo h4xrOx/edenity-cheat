@@ -1,0 +1,40 @@
+Serial number	Vulnerability number	Date of discovery	Vulnerability level	Vulnerability name
+1	99274	2021-06-15	high	QNAP Roon Server unauthorized RCE vulnerabilities (CVE-2021-28810, CVE-2021-28811)
+2	99265	2021-06-03	high	Microsoft SharePoint Remote Code Execution Vulnerability (CVE-2021-31181)
+3	99264	2021-06-03	high	Apache Solr SSRF vulnerability (CVE-2021-27905)
+4	99263	2021-06-01	high	Microsoft Hyper-V remote code execution vulnerability (CVE-2021-28476)
+5	99260	2021-05-26	high	VMware vCenter Server remote code execution vulnerability (CVE-2021-21985)
+6	99244	2021-05-13	high	Microsoft Azure Virtual Machine Information Disclosure Vulnerability (CVE-2021-27075)
+7	99238	2021-05-07	high	Microsoft Exchange Server remote code execution vulnerability (CVE-2021-28482)
+8	99233	2021-04-28	high	Apache OFBiz code execution vulnerability (CVE-2021-30128)
+9	99224	2021-04-21	high	Microsoft SharePoint Information Disclosure Vulnerability (CVE-2020-17120)
+10	99171	2021-03-30	high	Apache Druid remote code execution vulnerability (CVE-2021-26919)
+11	99163	2021-03-22	high	Apache OFBiz RCE vulnerability (CVE-2021-26295)
+12	99160	2021-03-18	high	Unauthorized arbitrary file reading vulnerability in Solr
+13	99145	2021-03-05	high	Microsoft Exchange unauthorized RCE vulnerability (CVE-2021-26855 CVE-2021-26857 CVE-2021-26858 CVE-2021-27065)
+14	99132	2021-02-22	high	NetMoition Mobility Server multiple code execution vulnerabilities (CVE-2021-26912 CVE-2021-26913 CVE-2021-26914 CVE-2021-26915)
+15	98877	2020-10-26	high	Siemens ROX II Improper Privilege Management (CVE-2018-13802 CVE-2018-13801 )
+16	98860	2020-10-26	high	Roche Diagnostics Point of Care Handheld Medical Devices (Update A) Improper Authentication, OS Command Injection, Unrestricted Upload of File with Dangerous Type, Improper Access Control (CVE-2018-18565 CVE-2018-18564 CVE-2018-18563 CVE-2018-18562 CVE-2018-18561 )
+17	98822	2020-10-26	high	Schneider Electric IIoT Monitor (Update A) Path Traversal, Unrestricted Upload of File with Dangerous Type, XXE, Cryptographic Issues (CVE-2018-7839 CVE-2018-7837 CVE-2018-7836 CVE-2018-7835 )
+18	98770	2020-10-26	high	Siemens RUGGEDCOM ROX II Double Free, Out-of-bounds Read, Uncontrolled Resource Consumption (CVE-2018-5381 CVE-2018-5380 CVE-2018-5379 )
+19	98757	2020-10-26	high	Siemens SINAMICS PERFECT HARMONY GH180 Drives NXG I and NXG II Uncontrolled Resource Consumption (CVE-2019-6578)
+20	98783	2020-10-26	middle	PEPPERL+FUCHS WirelessHART-Gateways Path Traversal (CVE-2018-16059)
+21	98690	2020-10-26	high	Siemens IE-WSN-PA Link WirelessHART Gateway
+22	98541	2020-10-26	high	Emerson WirelessHART Gateway
+23	98314	2020-07-27	middle	Command execution exists for scp in OpenSSH 8.3p1 (CVE-2020-15778)
+24	97900	2019-04-10	high	CVE-2019-0211 Apache Root Privilege Escalation
+25	97633	2018-10-30	high	ACME Mini_httpd component arbitrary file reading vulnerability (CVE-2018-18778)
+26	97614	2018-10-17	high	libssh authentication bypass in server code (CVE-2018-10993)
+27	97503	2018-08-29	high	OpenSSH 2.3 < 7.7 - Username Enumeration(CVE-2018-15473)
+28	96556	2017-09-20	high	Apps industrial OT over Server: Anti-Web Local File Inclusion(CVE-2017-9097)
+29	96555	2017-09-20	high	Apps industrial OT over Server: Anti-Web Remote Command Execution(CVE-2017-17888)
+30	92822	2017-03-23	middle	OpenSSH on Cygwin: directory traversal in SFTP client
+31	92582	2016-12-21	middle	OpenSSH security authentication bypass vulnerability (CVE-2016-10012)
+32	92581	2016-12-21	middle	OpenSSH information disclosure vulnerability (CVE-2016-10011)
+33	92134	2016-07-19	middle	httpoxy remote proxy infection vulnerability
+34	89233	2015-07-01	high	IIS series Http.sys handles Range integer overflow vulnerability
+35	61370	2014-01-21	middle	DaumGame ActiveX 1.1.0.x buffer overflow vulnerability
+36	3368	2008-06-03	middle	Multiple Buffer Overflow Vulnerabilities in Lianzhong World GLIEDown2.dll Active Control
+37	3272	2008-05-09	high	Arbitrary code execution vulnerability in Lianzhong World GLIEDown2.dll Active control
+38	2890	2008-02-13	middle	Lianzhong World GLWorld HanGamePluginCn18 ActiveX Control Stack Overflow Vulnerability
+39	7838	2008-01-12	low	Lianzhong World GLChat.ocx ActiveX Control BoF exploit
