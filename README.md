@@ -1,2 +1,2 @@
-# edenity.cx
-edenity.cx hacked (overwatch cheat)
+# edenity
+edenity hacked (overwatch cheat)
