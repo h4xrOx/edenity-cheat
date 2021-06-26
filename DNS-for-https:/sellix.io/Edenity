@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://sellix.io/Edenity">here</a>.</p>
+<hr>
+<address>Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6 Server at buy.edenity.to Port 80</address>
+</body></html>
+
+https://sellix.io/Edenity
+94.100.18.10       94-100-18-10.static.hvvc.us          rDN
+94.100.18.10	      rdns2.hivelocity.net.                NS
+94.100.18.10	      rdns1.hivelocity.net.                NS
+94.100.18.10	      94-100-18-10.static.hvvc.us          domainnames
+
+https://sellix.io/Edenity
